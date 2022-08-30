@@ -1,3 +1,0 @@
-
-My git file
-
